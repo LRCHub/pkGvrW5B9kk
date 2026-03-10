@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ナミダ電波",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-10T14:56:58.051303Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナミダ電波",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_ナミダ電波_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナミダ電波",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ナミダ電波_稲葉曇.txt"
+    }
+  ]
+}
